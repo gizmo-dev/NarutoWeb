@@ -1,0 +1,51 @@
+
+
+body {
+	
+	background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/538a50bc-ccf9-4fd7-902c-69658ee473a8/dc0nr2u-a70f94f4-95f3-4ad9-9609-1c439d313548.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzOGE1MGJjLWNjZjktNGZkNy05MDJjLTY5NjU4ZWU0NzNhOFwvZGMwbnIydS1hNzBmOTRmNC05NWYzLTRhZDktOTYwOS0xYzQzOWQzMTM1NDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BlQSJpVcCXJw8fmUftNAfnCqEqvLsnMDVIHnJc2lih8');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {
+	background: #FFF3D7;
+	position: relative;
+	top: 300px;
+	color: #27668F;
+	padding: 15px;
+}
+#yt{
+	position: relative;
+	top: 200px;
+	left: 100px;
+
+}
+iframe {
+	border-style: dashed;
+	border-radius: 5px;
+	border-width: medium;
+	border-color: #27668F;
+
+}
+h1{
+	font-size: 80px;
+	font-family: 'Amatic SC', cursive;
+}
+
+h2 {
+	background: #F3931B;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a {
+	color:aqua;
+	text-decoration: none;
+}
+
+
